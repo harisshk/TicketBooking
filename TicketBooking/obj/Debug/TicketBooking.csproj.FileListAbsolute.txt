@@ -1,0 +1,6 @@
+C:\Users\Harisshk\source\repos\TicketBooking\TicketBooking\bin\Debug\TicketBooking.exe.config
+C:\Users\Harisshk\source\repos\TicketBooking\TicketBooking\bin\Debug\TicketBooking.exe
+C:\Users\Harisshk\source\repos\TicketBooking\TicketBooking\bin\Debug\TicketBooking.pdb
+C:\Users\Harisshk\source\repos\TicketBooking\TicketBooking\obj\Debug\TicketBooking.csprojAssemblyReference.cache
+C:\Users\Harisshk\source\repos\TicketBooking\TicketBooking\obj\Debug\TicketBooking.exe
+C:\Users\Harisshk\source\repos\TicketBooking\TicketBooking\obj\Debug\TicketBooking.pdb
